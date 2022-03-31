@@ -1,2 +1,2 @@
 # Free-game
-simple quiz bee
+simple quiz bee game
